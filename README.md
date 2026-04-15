@@ -34,7 +34,8 @@ Sample sales dataset used for analysis (can be customized for real-world use cas
 Aspiring Data Analyst with hands-on experience in Power BI, DAX, and data modeling. Focused on building dashboards that deliver actionable insights and support business performance tracking.
 
 ## Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
-- Portfolio: https://your-portfolio-link  
-- Facebook: https://facebook.com/your-profile  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=google-chrome&logoColor=white)](https://your-portfolio-link)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://facebook.com/your-profile)
